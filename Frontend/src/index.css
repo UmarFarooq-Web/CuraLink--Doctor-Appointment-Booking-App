@@ -2,5 +2,10 @@
 
 
 @theme{
-  --color-primary:#ffffff
+  --color-primary:#5f6fff
+}
+
+
+.active hr{
+  @apply block
 }
